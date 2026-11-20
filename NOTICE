@@ -1,0 +1,7 @@
+# Notice
+
+This repository vendors no third-party source files.
+
+The numbers it recomputes are classical counts, or direct evaluations of one printed 3 by 3 matrix and three printed boards. The source note that prompted the checks is not included.
+
+Papers named in `PROOF.md` stay citations. Their code, data, and algorithms are not shipped here, and their licences are not inherited by this repository.
